@@ -7,7 +7,7 @@ The BERG web page uses the users location to determine the current weather in th
 - The motivation behind this app was to help users get to where they are travelling while also being aware of the current weather conditions
 - BERG helps save time and money by users not getting lost
 
-##Screenshots
+## Screenshots
 <img width="956" alt="BERG_NEW_TRIP" src="https://user-images.githubusercontent.com/109004012/185771483-824acad0-e882-4dbd-9503-cf0b1c9bb8de.png">
 <img width="959" alt="BERG_TRIP_HISTORY" src="https://user-images.githubusercontent.com/109004012/185771484-5e2271b8-db5f-4627-917c-f5d0722ce7dc.png">
 <img width="959" alt="BERG" src="https://user-images.githubusercontent.com/109004012/185771485-6cad95ae-5ccb-4acf-9c50-1850448d0302.png">
