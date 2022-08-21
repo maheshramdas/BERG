@@ -7,13 +7,12 @@ The BERG web page uses the users location to determine the current weather in th
 - The motivation behind this app was to help users get to where they are travelling while also being aware of the current weather conditions
 - BERG helps save time and money by users not getting lost
 
-## Table of Contents (Optional)
+##Screenshots
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Credits](#credits)
-- [License](#license)
+## URLs
+1. Github repositry link: https://github.com/maheshramdas/BERG
+2. Deployed application link: https://maheshramdas.github.io/BERG/ 
 
 ## Installation
 
